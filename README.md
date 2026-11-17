@@ -15,6 +15,12 @@
 - **Applied AI and automation** · RAG, semantic search, AI-assisted workflows, and background services tied to real operational needs.
 - **Delivery foundations** · secure defaults, CI/CD, telemetry, documentation, and runbooks that make systems easier to own.
 
+## Products I run
+
+- [Building a Memory](https://bamemory.com.br/) · branded photo and video delivery for photographers, videomakers and storymakers.
+- [Marcalle](https://marcalle.com.br/) · online booking for beauty studios, with WhatsApp reminders.
+- [CLIOPsi](https://cliopsi.com.br/) · electronic records and scheduling for psychologists.
+
 ## Core stack
 
 - **Application:** C# · .NET 10 · ASP.NET Core · Blazor · SignalR · Entity Framework Core
