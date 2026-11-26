@@ -2,35 +2,27 @@
 
 # Pedro Bertoluchi
 
-**.NET & Applied AI Engineer.** I build production-grade .NET systems and applied-AI workflows · from architecture and APIs to observability and delivery. I care most about what happens after the demo: security, reliability, and maintainable operations.
+Fundador da [Bertoluchi Software](https://www.bertoluchi.dev), em São Paulo. Desenvolvo software sob medida com desenvolvimento acelerado por IA, em .NET e Next.js.
 
-[Portfolio](https://www.bertoluchi.dev/en) · [Technical writing](https://www.bertoluchi.dev/en/blog) · [GitHub](https://github.com/PedroBertoluchi) · [LinkedIn](https://www.linkedin.com/in/pedro-bertoluchi/) · [Email](mailto:pedro.bertoluchi@outlook.com)
+Site: [www.bertoluchi.dev](https://www.bertoluchi.dev)
 
-> Production over demos. Observability before guesswork. AI when it earns the complexity.
+**In English:** I am the founder of Bertoluchi Software, a São Paulo studio building custom software with AI-accelerated development in .NET and Next.js. To hire me from abroad, see [bertoluchi.dev/en/contact](https://www.bertoluchi.dev/en/contact).
 
-## What I build
+## Produtos próprios
 
-- **Product systems** · ASP.NET Core and Blazor applications designed from the domain outward.
-- **Platforms and integration** · secure APIs, gateways, identity, data workflows, and real-time features with SignalR.
-- **Applied AI and automation** · RAG, semantic search, AI-assisted workflows, and background services tied to real operational needs.
-- **Delivery foundations** · secure defaults, CI/CD, telemetry, documentation, and runbooks that make systems easier to own.
+- [Building a Memory](https://bamemory.com.br) · entrega de fotos e vídeos com a marca do fotógrafo, videomaker ou storymaker.
+- [Marcalle](https://marcalle.com.br) · agendamento online para estúdios de beleza, com lembretes por WhatsApp.
+- [CLIO-Psi](https://cliopsi.com.br) · prontuário eletrônico e agenda para psicólogos.
 
-## Products I run
+## Números
 
-- [Building a Memory](https://bamemory.com.br/) · branded photo and video delivery for photographers, videomakers and storymakers.
-- [Marcalle](https://marcalle.com.br/) · online booking for beauty studios, with WhatsApp reminders.
-- [CLIOPsi](https://cliopsi.com.br/) · electronic records and scheduling for psychologists.
+- 7.472.711 requisições atendidas em 30 dias (2026-10-24 a 2026-11-22), em 14 domínios, medidas na Cloudflare. Inclui robôs e verificações, não são visitas.
+- 9 de 11 sites e sistemas colocados no ar em 2026 chegaram à primeira versão em produção em até 7 dias do primeiro commit. Os sistemas maiores não têm data medível e ficam fora da conta.
 
-## Core stack
+## Textos
 
-- **Application:** C# · .NET 10 · ASP.NET Core · Blazor · SignalR · Entity Framework Core
-- **Data:** SQL Server · Azure SQL · PostgreSQL · Redis · RabbitMQ · SQLite
-- **Cloud & operations:** Azure · API Management · Microsoft Entra ID · Application Insights · GitHub Actions
-- **Applied AI:** OpenAI · Azure OpenAI · Semantic Kernel · embeddings · RAG
-- **Beyond the core:** .NET MAUI · WPF · Windows Forms · C++ · Lua
+- [When not to use RAG](https://www.bertoluchi.dev/en/blog/when-not-to-use-rag)
+- [End-to-end observability for .NET APIs with OpenTelemetry](https://www.bertoluchi.dev/en/blog/observability-aspnet-opentelemetry)
+- [The outbox pattern in .NET](https://www.bertoluchi.dev/en/blog/outbox-pattern-dotnet-masstransit)
 
-## Field notes
-
-- [When not to use RAG](https://www.bertoluchi.dev/en/blog/when-not-to-use-rag) · choosing simpler retrieval patterns when RAG does not earn its complexity.
-- [End-to-end observability for .NET APIs with OpenTelemetry](https://www.bertoluchi.dev/en/blog/observability-aspnet-opentelemetry) · connecting traces, metrics, and logs around production behavior.
-- [The outbox pattern in .NET](https://www.bertoluchi.dev/en/blog/outbox-pattern-dotnet-masstransit) · making message delivery reliable beyond a happy-path demo.
+[Site](https://www.bertoluchi.dev) · [Blog](https://www.bertoluchi.dev/en/blog) · [LinkedIn](https://www.linkedin.com/in/pedro-bertoluchi/) · [E-mail](mailto:pedro.bertoluchi@outlook.com)
