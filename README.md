@@ -16,7 +16,7 @@ Site: [www.bertoluchi.dev](https://www.bertoluchi.dev)
 
 ## Números
 
-- 7.472.711 requisições atendidas em 30 dias (2026-10-24 a 2026-11-22), em 14 domínios, medidas na Cloudflare. Inclui robôs e verificações, não são visitas.
+- 7.472.711 requisições atendidas em 30 dias (2026-10-24 a 2026-11-22), em 14 domínios dos sistemas que mantemos. Inclui robôs e verificações, não são visitas.
 - 9 de 11 sites e sistemas colocados no ar em 2026 chegaram à primeira versão em produção em até 7 dias do primeiro commit. Os sistemas maiores não têm data medível e ficam fora da conta.
 
 ## Textos
