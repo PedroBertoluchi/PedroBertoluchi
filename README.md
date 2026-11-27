@@ -6,7 +6,7 @@ Fundador da [Bertoluchi Software](https://www.bertoluchi.dev), em São Paulo. De
 
 Site: [www.bertoluchi.dev](https://www.bertoluchi.dev)
 
-**In English:** I am the founder of Bertoluchi Software, a São Paulo studio building custom software with AI-accelerated development in .NET and Next.js. To hire me from abroad, see [bertoluchi.dev/en/contact](https://www.bertoluchi.dev/en/contact).
+**In English:** I am the founder of Bertoluchi Software, a São Paulo studio building custom software with AI-accelerated development in .NET and Next.js. To hire me from abroad, see [bertoluchi.dev/en/hire](https://www.bertoluchi.dev/en/hire).
 
 ## Produtos próprios
 
